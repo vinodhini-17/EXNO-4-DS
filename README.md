@@ -24,9 +24,9 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-      ![image](https://github.com/vinodhini-17/EXNO-4-DS/assets/145742741/a0ce4097-4b6e-4b15-a969-cd683858595b)
-      ![image](https://github.com/vinodhini-17/EXNO-4-DS/assets/145742741/58af6afe-b3c4-41d0-8d84-e90e119df38f)
-      ![image](https://github.com/vinodhini-17/EXNO-4-DS/assets/145742741/dc722f10-a0e4-449c-8336-ba102360937b)
+![image](https://github.com/vinodhini-17/EXNO-4-DS/assets/145742741/a0ce4097-4b6e-4b15-a969-cd683858595b)
+![image](https://github.com/vinodhini-17/EXNO-4-DS/assets/145742741/58af6afe-b3c4-41d0-8d84-e90e119df38f)
+![image](https://github.com/vinodhini-17/EXNO-4-DS/assets/145742741/dc722f10-a0e4-449c-8336-ba102360937b)
 ![image](https://github.com/vinodhini-17/EXNO-4-DS/assets/145742741/ea703d7e-5ff9-4b7f-9943-90f202b5b2e0)
 ![image](https://github.com/vinodhini-17/EXNO-4-DS/assets/145742741/d99cbf29-1543-4423-b050-a2b25a4a211a)
 
